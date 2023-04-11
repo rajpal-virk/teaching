@@ -50,10 +50,10 @@ print(c)
 
 ```python
 '''this code is to add 2 numbers
-you need to give values of a and b'''
+you need to give values of a and b.'''
 
 """this code is to add 2 numbers
-you need to give values of a and b"""
+you need to give values of a and b."""
 a = 10 
 b = 20
 c = a + b
